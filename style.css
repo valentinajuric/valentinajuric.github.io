@@ -1,0 +1,28 @@
+.img-responsive{
+	width: 100%;
+	height: auto;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+#mainHeader{
+	font-family: Verdana, sans-serif;
+	font-weight: bold;
+}
+
+.header{
+	font-family: Verdana, sans-serif;
+	font-weight: bold;	
+}
+
+.p{
+	font-family: Verdana, Tahoma, Lato;
+}
+
+body {
+	background-color: #FAC8BE;
+}
+
